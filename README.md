@@ -1,4 +1,6 @@
-# shivaya-dav
+#Shivaya <a href="https://github.com/shivaya-dav?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>  
 
 # Telegram Bot App Downloads
 
@@ -41,11 +43,6 @@ Welcome to the official download page for the Centre DAO Android APKs. Click on 
 ## If you need help or support, please contact: 
 <a href="https://youtube.com/@zerodarknexus">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>  
-<br>  
-
-<a href="https://github.com/shivaya-dav?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
 
