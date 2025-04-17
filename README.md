@@ -1,6 +1,6 @@
 <a href="https://github.com/shivaya-dav?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a> <h1> Shivaya </h1>
+<h1> Shivaya </h1>
+</a>
 
 # Telegram Bot App Downloads
 
